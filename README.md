@@ -1,4 +1,6 @@
-# enthusiasticprogrammers.github.io
-Club website
+# MoorparkVenture.github.io
+Crew website
 
-Catered on github.
+Created on github,
+based on the Moorpark College CS club website
+enthusiasticprogrammers.github.io
